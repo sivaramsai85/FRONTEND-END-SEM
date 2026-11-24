@@ -1,0 +1,45 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #eaf2f8;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #1a237e;
+}
+
+.box {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 550px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px gray;
+}
+
+input {
+  display: block;
+  width: 80%;
+  padding: 12px;
+  margin: 12px auto;
+}
+
+button {
+  background: #1976d2;
+  color: white;
+  padding: 12px 18px;
+  margin: 6px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0d47a1;
+}
